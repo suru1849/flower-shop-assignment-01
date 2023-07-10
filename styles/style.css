@@ -5,9 +5,8 @@
   padding: 0px;
 }
 
-.description {
+.description-primary {
   color: #27272799;
-  margin: 32px 0px;
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
@@ -23,6 +22,12 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.tittle-primary {
+  font-size: 48px;
+  font-weight: 800;
+}
+
 /* header-section style */
 header {
   background-color: #e554731a;
@@ -41,4 +46,26 @@ header {
   color: #272727;
   font-size: 80px;
   font-weight: 800;
+}
+
+#header-description {
+  margin: 32px 0px;
+}
+/* footer-section style */
+footer {
+  background-color: #111010;
+  color: #fff;
+  text-align: center;
+  padding: 130px 500px;
+}
+
+#footer-description {
+  margin-top: 24px;
+  margin-bottom: 32px;
+  color: gray;
+}
+
+.copy-right {
+  font-size: 16px;
+  font-weight: 400;
 }
