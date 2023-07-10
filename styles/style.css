@@ -21,10 +21,18 @@
   padding: 20px 43px;
   border: none;
   border-radius: 8px;
+  cursor: pointer;
 }
 /* header-section style */
 header {
-  display: flex;
+  background-color: #e554731a;
+  background-image: url("../images/pngwing\ 10.png");
+  background-repeat: no-repeat;
+  background-position: 90% 100%;
+}
+
+.header-content {
+  padding: 197px 972px 147px 230px;
 }
 
 .header-content-tittle {
