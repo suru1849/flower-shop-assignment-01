@@ -28,11 +28,13 @@ header {
   background-color: #e554731a;
   background-image: url("../images/pngwing\ 10.png");
   background-repeat: no-repeat;
-  background-position: 90% 100%;
+  background-position: 95% 100%;
 }
 
 .header-content {
-  padding: 197px 972px 147px 230px;
+  text-align: left;
+  padding: 197px 690px 140px 150px;
+  margin-bottom: 180px;
 }
 
 .header-content-tittle {
