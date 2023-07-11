@@ -73,6 +73,24 @@ header {
   text-align: center;
 }
 
+/* hot-deal section style */
+.hot-deal {
+  display: flex;
+  background-color: #e554730d;
+  margin-bottom: 130px;
+}
+
+.hot-deal-content {
+  text-align: center;
+  padding: 200px 650px 160px 200px;
+  background-image: url("../images/pngwing\ 8.png");
+  background-repeat: no-repeat;
+  background-position: 85% 50%;
+}
+
+#hot-deal-description {
+  margin: 24px 0px 32px 0px;
+}
 /* Get-The-Latest-Deals section style*/
 .Get-The-Latest-Deals {
   text-align: center;
