@@ -40,7 +40,7 @@ header {
 
 .header-content {
   text-align: left;
-  padding: 197px 690px 140px 150px;
+  padding: 197px 720px 140px 120px;
 }
 
 .header-content-tittle {
@@ -98,6 +98,7 @@ header {
 }
 
 .insta-row {
+  justify-content: center;
   padding-right: 90px;
   padding-left: 95px;
 }
@@ -131,7 +132,7 @@ header {
   background-size: contain;
   border-radius: 10pxpx;
   padding: 100px 287px;
-  margin-bottom: 130px;
+  margin-bottom: 150px;
 }
 
 #Get-The-Latest-Deals-description {
@@ -152,6 +153,35 @@ header {
   font-size: 16px;
   font-weight: 400;
   padding: 23px 0px 23px 23px;
+}
+
+/* download-our-app section style */
+.download-app {
+  text-align: center;
+  margin-bottom: 130px;
+}
+
+#download-app-tittle {
+  margin-bottom: 24px;
+}
+
+.download-app a {
+  text-decoration: none;
+}
+
+.download-app abbr {
+  text-decoration: none;
+}
+
+.illustration {
+  background: rgb(250, 229, 232);
+  margin: 0px 100px 0px 100px;
+  border-radius: 10px;
+}
+
+.download-app video {
+  width: 72%;
+  height: auto;
 }
 
 /* footer-section style */
