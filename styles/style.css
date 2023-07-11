@@ -53,6 +53,26 @@ header {
   margin: 32px 0px;
 }
 
+/* Service section style */
+.services {
+  background-color: #2727270d;
+  justify-content: center;
+  display: flex;
+  gap: 120px;
+  border-radius: 10px;
+  padding: 50px 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 130px;
+}
+.service li {
+  list-style: none;
+}
+
+.service {
+  text-align: center;
+}
+
 /* Get-The-Latest-Deals section style*/
 .Get-The-Latest-Deals {
   text-align: center;
