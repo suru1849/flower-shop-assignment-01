@@ -60,7 +60,7 @@ header {
 
 #featured-description {
   margin: 24px 0px 48px 0px;
-  padding: 0px 550px 0px 550px;
+  padding: 0px 510px 0px 510px;
 }
 
 #img {
@@ -70,8 +70,8 @@ header {
 }
 
 .featured-img {
-  width: 468px;
-  height: 542px;
+  width: 418px;
+  height: 492px;
   border-radius: 49% 49% 0 0;
 }
 
